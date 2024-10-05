@@ -1,15 +1,8 @@
-# Calories
+# Scaffold and navigation
+This walkthrough can be implemented on top of Scaffold walkthrough implemented earlier. 
+Navigation is added so user is able to navigate between multiple screens.
 
-During this walkthrough you will create an app that calculates calorie consumption based on weight, gender, and physical activity.
-
-Learning objectives are:
-- Divide app and UI into multiple composables/components
-- OutLinedTextField
-- RadioButton
-- DropDownList
-- Hoisting state up
-- Support portrait mode only
-
+You should be able to navigate between main, info and settings screens.
 
 ## Implemented UI
 
